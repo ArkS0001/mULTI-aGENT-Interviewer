@@ -1,4 +1,7 @@
 # mULTI-aGENT-Interviewer
+<img width="1280" height="800" alt="Untitled" src="https://github.com/user-attachments/assets/013428c2-c77e-43a3-ac31-4c514e2c4c2e" />
+
+<img width="1345" height="851" alt="screenshot 989" src="https://github.com/user-attachments/assets/11665690-1933-42f9-8022-8ae05ca52471" />
 
 * Uses **Groq API** with `model="openai/gpt-oss-120b"`.
 * Handles **agentic interview loop**: interviewer → TTS → auto-start mic → user reply → Groq → interviewer.
